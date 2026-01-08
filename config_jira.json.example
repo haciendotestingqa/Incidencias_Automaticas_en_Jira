@@ -1,0 +1,8 @@
+{
+  "jira_server": "https://tu-instancia.atlassian.net/",
+  "email": "tu-email@ejemplo.com",
+  "api_token": "TU_API_TOKEN_AQUI",
+  "project_key": "PROYECTO",
+  "issue_type": "Incidencia"
+}
+
